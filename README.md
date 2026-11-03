@@ -94,9 +94,9 @@ Desenvolver um sistema de autenticação utilizando **PHP**, **MySQL** e **sess�
 
 | Arquivo | Descrição |
 |---|---|
-| [`15d_login.php`](15d_login.php) | Formulário de login, consulta ao banco de dados e criação da sessão. |
-| [`15d_perfil.php`](15d_perfil.php) | Página protegida que exibe o usuário e a cor de fundo escolhida. |
-| [`15d_logout.php`](15d_logout.php) | Encerra a sessão e redireciona para a página de login. |
+| [`15d_login.php`](assets/15d_login.php) | Formulário de login, consulta ao banco de dados e criação da sessão. |
+| [`15d_perfil.php`](assets/15d_perfil.php) | Página protegida que exibe o usuário e a cor de fundo escolhida. |
+| [`15d_logout.php`](assets/15d_logout.php) | Encerra a sessão e redireciona para a página de login. |
 
 </div>
 
