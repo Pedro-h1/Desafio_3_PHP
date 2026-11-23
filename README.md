@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=777BB4&text=🔐+LOGIN+COM+PHP&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=👤+Desafio+3+-+Perfil+de+Usuário+com+Banco+de+Dados&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=🔐+LOGIN+COM+PHP&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=👤+Desafio+3+-+Perfil+de+Usuário+com+Banco+de+Dados&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -120,5 +120,5 @@ O sistema utiliza o banco de dados **`exercicio`** e a tabela **`usuarios`**, cr
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=777BB4&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A25CED,100:5649ED&section=footer&animation=fadeIn" width="100%" />
 </div>
