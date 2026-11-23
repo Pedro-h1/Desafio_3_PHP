@@ -1,11 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:777BB4,100:50547D&text=🔐+LOGIN+COM+PHP&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=👤+Desafio+3+-+Perfil+de+Usuário+com+Banco+de+Dados&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:262641,100:777BB4&text=🔐+LOGIN+COM+PHP&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=👤+Desafio+3+-+Perfil+de+Usuário+com+Banco+de+Dados&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🔐+Sobre+o+Desafio;👤+Perfil+de+Usuário+com+Banco+de+Dados" />
-</div>
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📋+Descrição+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%94%90+Descri%C3%A7%C3%A3o+do+Desafio+%E2%80%94+Login+com+PHP" />
 </div>
 <div align="center">
     <p>Este projeto consiste na criação de um <strong>sistema de login com PHP e MySQL</strong>, permitindo que usuários cadastrados no banco de dados realizem a autenticação e acessem uma página de perfil personalizada.</p>
@@ -15,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo+da+Atividade" />
 </div>
 <div align="center">
     <p>Desenvolver um sistema de autenticação utilizando <strong>PHP</strong>, <strong>MySQL</strong> e <strong>sessões</strong>, consultando os usuários cadastrados na tabela `usuarios` do banco `exercicio` e permitindo a personalização da página de perfil por meio de uma cor escolhida no formulário de login.</p>
@@ -24,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📝+Funcionalidades+Implementadas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%93%9D+Funcionalidades+Implementadas" />
 </div>
 <div align="center">
     <p>🔐 <strong>Login:</strong> formulário com os campos Usuário, Senha e Cor de Fundo.</p>
@@ -40,7 +37,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🔧+Especificações+Técnicas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" />
 </div>
 <div align="center">
 
@@ -62,7 +59,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=📂+Arquivos+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%93%82+Arquivos+da+Atividade" />
 </div>
 <div align="center">
 
@@ -77,7 +74,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=🗄️+Banco+de+Dados" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=777BB4&center=true&vCenter=true&width=750&lines=%F0%9F%97%84%EF%B8%8F+Banco+de+Dados" />
 </div>
 <div align="center">
     <p>O sistema utiliza o banco de dados <strong>`exercicio`</strong> e a tabela <strong>`usuarios`</strong>, criados na atividade anterior.</p>
@@ -89,5 +86,5 @@
 
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:50547D,100:777BB4&section=footer&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:777BB4,100:262641&section=footer&animation=fadeIn" width="100%" />
 </div>
